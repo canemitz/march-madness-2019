@@ -8,7 +8,5 @@ Adding the seed for each team helped a lot with improving predictions between te
 
 For 2019, my model correctly predicted the winner of 47 of the 67 games that were played (70.1%).
 
-
-A bracket made from the predictions is shown below.
-
+A bracket made from the predictions is shown below. As of the Sweet Sixteen, it had 14 of the 16 teams correct.
 ![Image](https://raw.githubusercontent.com/canemitz/march-madness-2019/master/bracket2019.png)
